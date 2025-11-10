@@ -1,7 +1,7 @@
 ```markdown
 # Staybnb - Airbnb Clone Project
 
-![Staybnb Logo](./images/logo-red.png)
+![Staybnb Logo](./images/logo.png)
 
 A **responsive, static frontend clone** of Airbnb (rebranded as **Staybnb**) built using **HTML, CSS, and vanilla JavaScript**. This project demonstrates modern UI/UX design principles with a focus on clean layout, mobile responsiveness, and interactive elements.
 
@@ -13,6 +13,7 @@ A **responsive, static frontend clone** of Airbnb (rebranded as **Staybnb**) bui
 ---
 
 ## 📁 Project Structure
+```
 
 ```
 staybnb-clone/
@@ -29,6 +30,7 @@ staybnb-clone/
 │   ├── image-1.png ... image-10.png
 │   └── ...
 └── README.md               # You're here!
+```
 ```
 
 ---
