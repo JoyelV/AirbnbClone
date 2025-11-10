@@ -1,7 +1,7 @@
 ```markdown
 # Staybnb - Airbnb Clone Project
 
-![Staybnb Logo](images/logo-red.png)
+![Staybnb Logo](./images/logo-red.png)
 
 A **responsive, static frontend clone** of Airbnb (rebranded as **Staybnb**) built using **HTML, CSS, and vanilla JavaScript**. This project demonstrates modern UI/UX design principles with a focus on clean layout, mobile responsiveness, and interactive elements.
 
@@ -32,6 +32,7 @@ staybnb-clone/
 ```
 
 ---
+---
 
 ## ✨ Features
 
@@ -48,6 +49,7 @@ staybnb-clone/
 | **Call-to-Action Sections** | "Sharing is Earning", Traveler Stories, etc. |
 | **Social Media Footer** | Links to Facebook, YouTube, Twitter, LinkedIn, Instagram |
 
+---
 ---
 
 ## 🛠️ Tech Stack
@@ -84,9 +86,9 @@ staybnb-clone/
 
 2. **Open in browser**
    ```bash
-   open index.html
+   open landingPage.html
    ```
-   Or just double-click `index.html`
+   Or just double-click `landingPage.html`
 
 > No build tools or server required!
 
@@ -94,17 +96,17 @@ staybnb-clone/
 
 ## 📱 Pages Overview
 
-### 1. `index.html` – **Home Page**
+### 1. `landingPage.html` – **Home Page**
 - Hero banner with search bar
 - Exclusives, Trending, CTA, Stories
 - About section and footer
 
-### 2. `listing.html` – **Search Results**
+### 2. `listingPage.html` – **Search Results**
 - List of properties in San Francisco
 - Filter sidebar (static)
 - Pagination controls
 
-### 3. `house.html` – **Property Details**
+### 3. `detailedPage.html` – **Property Details**
 - Image gallery (grid layout)
 - Booking form
 - Host profile
@@ -122,18 +124,6 @@ function togglebtn() {
 ```
 - Toggles mobile navigation menu
 - Smooth transition via CSS
-
----
-
-## 🌍 Deployment
-
-Deploy easily with:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/staybnb-clone)
-
-or
-
-[![Deploy on GitHub Pages](https://github.com/user/repo/actions/workflows/pages.yml/badge.svg)](https://docs.github.com/en/pages)
 
 ---
 
@@ -159,8 +149,8 @@ or
 ## 👨‍💻 Author
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/JoyelV)  
-- LinkedIn: [yourprofile](https://www.linkedin.com/in/joyel-varghese-8a47501aa/)
+- GitHub: [@JoyelV](https://github.com/JoyelV)  
+- LinkedIn: [JoyelV](https://www.linkedin.com/in/joyel-varghese-8a47501aa/)
 
 ---
 
@@ -176,6 +166,5 @@ Give a ⭐ if you liked this project!
 Fork it, improve it, and make it your own.
 
 ---
-
-> **Built with ❤️ using only HTML, CSS & JS**
+**Built with ❤️ using only HTML, CSS & JS**
 ```
